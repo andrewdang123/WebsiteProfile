@@ -1,17 +1,17 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
-    color: #333;
-    text-align: center;
+    color: #000000;
+    text-align: left;
     padding: 20px;
 }
 
 h1 {
-    color: #007BFF;
+    color: #000000;
 }
 
 a {
-    color: #FF5733;
+    color: #000000;
     text-decoration: none;
 }
 
