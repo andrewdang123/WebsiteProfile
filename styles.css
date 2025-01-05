@@ -1,19 +1,28 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #f4f4f9;
     color: #000000;
     text-align: left;
     padding: 20px;
 }
 
+
+
 h1 {
     color: #000000;
+    font-size: 36px;
+}
+
+h2 {
+    color: #0a066f;
+    font-size: 24px;
 }
 
 a {
     color: #2787bb;
     text-decoration: none;
 }
+
 
 a:hover {
     text-decoration: underline;
